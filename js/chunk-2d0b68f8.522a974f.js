@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0b68f8"],{"1e4b":function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},i=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("p",[e._v("主页")])])}],r=(t("cadf"),t("551c"),t("097d"),{}),u=r,a=t("2877"),s=Object(a["a"])(u,c,i,!1,null,"7c0795fa",null);s.options.__file="index.vue";n["default"]=s.exports}}]);
+//# sourceMappingURL=chunk-2d0b68f8.522a974f.js.map

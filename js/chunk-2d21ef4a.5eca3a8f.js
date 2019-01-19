@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d21ef4a"],{d888:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},i=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("p",[e._v("文件下载")])])}],r=(t("cadf"),t("551c"),t("097d"),{}),s=r,u=t("2877"),a=Object(u["a"])(s,c,i,!1,null,"3915b781",null);a.options.__file="files.vue";n["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d21ef4a.5eca3a8f.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d20f8d6"],{b3b1:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},a=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("p",[e._v("机构概况")])])}],r=(t("cadf"),t("551c"),t("097d"),{}),i=r,u=t("2877"),l=Object(u["a"])(i,c,a,!1,null,"aad0a5d2",null);l.options.__file="profile.vue";n["default"]=l.exports}}]);
+//# sourceMappingURL=chunk-2d20f8d6.e34d1859.js.map

@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2245bf"],{e097:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},o=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("p",[e._v("合作")])])}],r=(t("cadf"),t("551c"),t("097d"),{}),i=r,u=t("2877"),a=Object(u["a"])(i,c,o,!1,null,"7e910e32",null);a.options.__file="cooperation.vue";n["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d2245bf.474eb836.js.map

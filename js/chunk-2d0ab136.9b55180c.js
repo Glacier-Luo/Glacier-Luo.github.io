@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0ab136"],{1474:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("p",[e._v("新闻")])])}],s=(t("cadf"),t("551c"),t("097d"),{}),u=s,a=t("2877"),i=Object(a["a"])(u,c,r,!1,null,"f3fcdd92",null);i.options.__file="news.vue";n["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d0ab136.9b55180c.js.map

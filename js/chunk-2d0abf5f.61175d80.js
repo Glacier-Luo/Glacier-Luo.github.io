@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0abf5f"],{1802:function(e,n,t){"use strict";t.r(n);var c=function(){var e=this,n=e.$createElement;e._self._c;return e._m(0)},r=[function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[t("p",[e._v("社会服务")])])}],s={},i=s,u=t("2877"),a=Object(u["a"])(i,c,r,!1,null,"63047c46",null);a.options.__file="services.vue";n["default"]=a.exports}}]);
+//# sourceMappingURL=chunk-2d0abf5f.61175d80.js.map
